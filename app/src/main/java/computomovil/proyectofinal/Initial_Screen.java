@@ -2,7 +2,7 @@ package computomovil.proyectofinal;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//si puedo editar
 public class Initial_Screen extends AppCompatActivity {
 
     @Override
